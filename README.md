@@ -37,3 +37,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 changes number: funciona junto com o: emitter component
 eventos: evento de botão
 if-render: condição com "if"
+
+## banco de dados criado
+npm install -g json-server (pesquisar no google)
