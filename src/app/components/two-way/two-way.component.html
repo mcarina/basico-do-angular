@@ -1,0 +1,15 @@
+<div class="class">
+  <h2>teste de two wai binding</h2>
+  <form>
+    <input
+      type="text"
+      [(ngModel)]="name"
+      name="name"
+      placeholder="Digite seu nome"
+    />
+    <input type="submit" value="enviar" />
+  </form>
+  <div *ngIf="name !== ''">
+    <p>Nome: {{ name }}</p>
+  </div>
+</div>

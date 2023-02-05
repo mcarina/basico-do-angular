@@ -1,0 +1,10 @@
+{
+  "animals": [
+      {"id": 1, "name": "Matsu Nami", "type": "gato",   "age": 1.5 },
+      {"id": 2, "name": "DuCat",   "type": "gato",   "age": 5 },
+      {"id": 3, "name": "Makcha", "type": "Dog",   "age": 4 },
+      {"id": 4, "name": "kami",   "type": "Chinchila", "age": 3 },
+      {"id": 5, "name": "Paco",  "type": "Bird",  "age": 1 }
+  ]
+}
+
